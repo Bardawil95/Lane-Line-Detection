@@ -10,3 +10,5 @@ You may use on of the videos in Dataset Folder as a test video for running the p
 
 The system can only recognise if the vehicle is moving on the left, right or middle. It uses an intermediate level of mathematics. 
 The code is well documented.
+
+To run the code, simply type python LaneDetectionSystem.py
